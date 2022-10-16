@@ -11,7 +11,6 @@
 - Semantic HTML5 markup
 - CSS 
 - Flexbox
-- CSS G
 - Mobile-first workflow
 
 ## Notes
