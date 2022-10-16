@@ -2,7 +2,7 @@
 
 ## Links
 <hr>
-<b>Check The Live Website ➡️➡️</b> <a href="https://joemre.github.io/Guess-Game-JS/">Live Website</a> 
+<b>Check The Live Website ➡️➡️</b> <a href="https://joemre.github.io/Weather_App_jQuery/">Live Website</a> 
 <hr>
 
 ### Built with
